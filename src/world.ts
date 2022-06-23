@@ -8,10 +8,15 @@ export default class World {
   public sayHallo(elem: HTMLElement | null) {
     if (elem) {
       elem.innerHTML = this.message
+
+
+
+      
+
+
+
+
+
     }
-
-
-
-    
   }
 }
