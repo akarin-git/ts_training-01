@@ -53,3 +53,12 @@ arraySample()
 import tupleSample from './array/tuple'
 
 tupleSample()
+
+// ジェネリック型
+import genericsBasicSample from './generics/basic'
+
+genericsBasicSample()
+
+import genericsAdvancedSample from './generics/advanced'
+
+genericsAdvancedSample()
