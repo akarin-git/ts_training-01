@@ -39,9 +39,17 @@
 // オブジェクトの型定義
 import objectSample from './object/object'
 
-objectSample()
+// objectSample()
 
 // オブジェクトの型定義
-import typeAliasSample from './object/alias'
+// import typeAliasSample from './object/alias'
 
-typeAliasSample()
+// typeAliasSample()
+
+import arraySample from './array/array'
+
+arraySample()
+
+import tupleSample from './array/tuple'
+
+tupleSample()
